@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+data/*
+!data/.gitkeep
+
+# Generated results
+tricky_messages_results.csv
